@@ -15,7 +15,7 @@ A simple guessing game implemented in Rust. The program generates a random numbe
 1. Clone the repository:
     ```bash
     git clone https://github.com/babanini95/guessing-game.git
-    cd guessing_game
+    cd guessing-game
     ```
 2. Build the project:
     ```bash
